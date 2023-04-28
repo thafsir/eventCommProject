@@ -9,5 +9,6 @@ export default class Button extends LightningElement {
         bubbles: true
       }));
       //changes made in remote
+      //changes accepted in local
     }
 }
