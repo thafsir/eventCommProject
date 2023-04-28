@@ -9,5 +9,5 @@ export default class Augmentor extends LightningElement {
     handleMaximizeCounter() {
         this.template.querySelector('c-numerator').maximizeCounter();
     }
-    //changes made 
+    //changes made again
 }
