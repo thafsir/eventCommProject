@@ -10,5 +10,6 @@ export default class Button extends LightningElement {
       }));
       //changes made in remote
       //changes accepted in local
+      //changed again in local
     }
 }
