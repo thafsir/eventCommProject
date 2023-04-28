@@ -15,5 +15,5 @@ export default class Controls extends LightningElement {
         }));
         }
     //update changes in source tree
-    //upadte in vs code to check in source tree
+    //upadte in vs code to check in source
 }
