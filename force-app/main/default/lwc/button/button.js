@@ -14,3 +14,4 @@ export default class Button extends LightningElement {
       //changed in local of master branch
     }
 }
+
